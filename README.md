@@ -1,9 +1,9 @@
-## Simon Game
+## Tic-Tac-Toe Game
 
-## Using Javascript for logic and sounds to guess the next move !
+## Using Javascript for logic and images⭕❌ to guess the next move !
 
 <h2 align="center">
-  <a href="https://simon-game-liart-faseeh.vercel.app/" target="_blank">Simon-Game-Faseeh.vercel.app</a>
+  <a href="https://tic-tac-toe-game-faseeh.vercel.app/" target="_blank">Tic-Tac-Toe-Game-Faseeh.vercel.app</a>
 </h2>
 
 <div align="center">
@@ -16,7 +16,7 @@
 
 This project was built using these technologies.
 
-- Sounds
+- Images
 - Css
 - Javascript
 - VsCode
